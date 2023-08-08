@@ -18,7 +18,7 @@ To get started with the project, follow these instructions:
 
 1. Clone this repository to your local machine using:
    ```
-https://github.com/Skeez04/Sneaker-Market-
+   https://github.com/Skeez04/Sneaker-Market-
    ```
 
 2. Install the required software:
